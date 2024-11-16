@@ -1,0 +1,40 @@
+/* Diseño de la Carta */
+.card {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border: 2px solid black;
+    font-family: Georgia;
+    font-size: 40px;
+    border-radius: 5%;
+    width: 333.33px;
+    height: 500px; 
+}
+
+.big_pica{
+    display: flex;
+    font-size: 80px;
+}
+
+.left_pica{
+    display: flex;
+    font-size: large;
+}
+
+.right_pica{
+    display: flex;
+    font-size: large;
+}
+
+.A1{
+    display: flex;
+    align-self: flex-end;
+    margin-right: 50%;
+    margin-bottom: 20px;
+}
+
+
+.A2{
+    display: flex;
+    ;
+}
